@@ -8,14 +8,14 @@
     background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.3)), url(cover.jpg);    
     background-repeat: no-repeat; 
     background-size: cover; 
-    background-position: left;
+    background-position: center;
 }
 
 html,
 body,
 header,
 .view {
-  height: 98.35%;
+  height: 97.98%;
   font-size: 20px;
   font-family: Lato;
 }
